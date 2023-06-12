@@ -2,8 +2,8 @@
 This is a simple Battle Ship game implemented using JavaFX. The game allows two players to play against each other by placing their ships on the game board. The game board is a 10x10 grid, with 5 ships of varying sizes (Aircraft Carrier, Battleship, Cruiser, Submarine, and Destroyer) that can be placed horizontally or vertically.
 
   ## Teammates:
- - [Ahmed Yousri](https://github.com/ahmedyousry28)
  - [Ahmed Abdelmenem](https://github.com/engahmed25)
+ - [Ahmed Yousri](https://github.com/ahmedyousry28)
  - [Mohamed Salah](https://github.com/mohamedsalah254)
  - [Salah Yassin](https://github.com/salahyassin)
  - [Motasem Mohamed]
