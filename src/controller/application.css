@@ -1,0 +1,15 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#pane {
+    -fx-background-image: url("file:///C:/Users/Mohamed%20Belasy/Downloads/38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App/battleShip/src/Images/START1.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 800 800;
+    -fx-background-position: center center;
+}
+#root{
+
+    -fx-background-image: url("file:///C:/Users/Mohamed%20Belasy/Downloads/38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App/battleShip/src/Images/men3m1.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 800 800;
+    -fx-background-position: center center;
+    /*-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); */
+}
